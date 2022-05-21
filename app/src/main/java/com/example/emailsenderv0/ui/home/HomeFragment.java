@@ -38,34 +38,34 @@ public class HomeFragment extends Fragment {
 
         recipientEmailHolder= new ArrayList<>();
 
-        HomeViewModel ob1=new HomeViewModel("Email 1", "Hello world");
+        HomeViewModel ob1=new HomeViewModel("Test1", "light.horse99@gmail.com");
         recipientEmailHolder.add(ob1);
 
-        HomeViewModel ob2=new HomeViewModel("Email 2", "Hello world");
+        HomeViewModel ob2=new HomeViewModel("Test2", "asif.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob2);
 
-        HomeViewModel ob3=new HomeViewModel("Email 3", "Hello world");
+        HomeViewModel ob3=new HomeViewModel("Test3", "asif.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob3);
 
-        HomeViewModel ob4=new HomeViewModel("Email 4", "Hello world");
+        HomeViewModel ob4=new HomeViewModel("Test4", "asif.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob4);
 
-        HomeViewModel ob5=new HomeViewModel("Email 5", "Hello world");
+        HomeViewModel ob5=new HomeViewModel("Test5", "light.horse99@gmail.com");
         recipientEmailHolder.add(ob5);
 
-        HomeViewModel ob6=new HomeViewModel("Email 6", "Hello world");
+        HomeViewModel ob6=new HomeViewModel("Test6", "minar.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob6);
 
-        HomeViewModel ob7=new HomeViewModel("Email 7", "Hello world");
+        HomeViewModel ob7=new HomeViewModel("Test7", "minar.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob7);
 
-        HomeViewModel ob8=new HomeViewModel("Email 8", "Hello world");
+        HomeViewModel ob8=new HomeViewModel("Test8", "minar.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob8);
 
-        HomeViewModel ob9=new HomeViewModel("Email 9", "Hello world");
+        HomeViewModel ob9=new HomeViewModel("Test9", "asif.mahmud.cse@ulab.edu.bd");
         recipientEmailHolder.add(ob9);
 
-        HomeViewModel ob10=new HomeViewModel("Email 10", "Hello world");
+        HomeViewModel ob10=new HomeViewModel("Test10", "light.horse99@gmail.com");
         recipientEmailHolder.add(ob10);
 
 

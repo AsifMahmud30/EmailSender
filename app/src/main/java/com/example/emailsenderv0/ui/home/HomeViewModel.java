@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel;
 public class HomeViewModel extends ViewModel {
     String recipientEmail, subject;
 
-    public HomeViewModel(String recipientEmail, String subject) {
+    public HomeViewModel(String subject,String recipientEmail) {
         this.recipientEmail = recipientEmail;
         this.subject = subject;
     }
