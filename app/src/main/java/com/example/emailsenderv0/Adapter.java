@@ -49,8 +49,8 @@ public class Adapter extends RecyclerView.Adapter<Adapter.homeViewHolder>{
         TextView recipientEmail, subject;
         public homeViewHolder(@NonNull View itemView) {
             super(itemView);
-            recipientEmail=itemView.findViewById(R.id.t1);
-            subject=itemView.findViewById(R.id.t2);
+            recipientEmail=itemView.findViewById(R.id.t2);
+            subject=itemView.findViewById(R.id.t1);
         }
     }
 
